@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "783897052576",
+    "firebase_url": "https://edchack-367d1.firebaseio.com",
+    "project_id": "edchack-367d1",
+    "storage_bucket": "edchack-367d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783897052576:android:03bf7334390245080090c5",
+        "android_client_info": {
+          "package_name": "com.yajith.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783897052576-oj3o4c51um6hhbqcj1r6q7edppv7pfkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaJnBRz_Q_tr7wov78tyKUUZgZogLkX3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783897052576-oj3o4c51um6hhbqcj1r6q7edppv7pfkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783897052576:android:9167a9f343bb725f0090c5",
+        "android_client_info": {
+          "package_name": "com.yajith.monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783897052576-oj3o4c51um6hhbqcj1r6q7edppv7pfkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaJnBRz_Q_tr7wov78tyKUUZgZogLkX3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783897052576-oj3o4c51um6hhbqcj1r6q7edppv7pfkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
